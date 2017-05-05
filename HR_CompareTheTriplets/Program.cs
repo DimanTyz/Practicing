@@ -33,7 +33,7 @@ class Solution
         int[] b = { b0, b1, b2 };
         int[] result = Solve(a, b);
 
-        Convert.toul
+        //Convert.toul
 
         //Console.WriteLine(String.Join(" ", result));
         Console.WriteLine(result[0] + " " + result[1]);
